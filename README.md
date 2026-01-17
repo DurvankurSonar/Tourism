@@ -13,9 +13,6 @@ Adventour is an open-source project; we welcome you to explore its codebase and 
   
 </div>
 
-## Screeshot
-
-![Tourest Desktop Demo](./Adventour.png "Desktop Demo")
 
 ## Tools Required
 All you need is a text editor of your preference. No complex installations or software configurations are necessary.
